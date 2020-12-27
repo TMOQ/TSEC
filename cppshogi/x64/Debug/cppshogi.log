@@ -1,0 +1,64 @@
+﻿  bitboard.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  book.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\book.hpp(37,79): warning C4244: '引数': '_Rep' から 'const unsigned int' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  common.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  cppshogi.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  generateMoves.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  hand.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  init.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\book.hpp(37,79): warning C4244: '引数': '_Rep' から 'const unsigned int' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  move.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  mt64bit.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  position.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  python_module.cpp
+C:\boost_1_69_0\boost\python\detail\wrap_python.hpp(50,11): fatal error C1083: include ファイルを開けません。'pyconfig.h':No such file or directory
+  search.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\book.hpp(37,79): warning C4244: '引数': '_Rep' から 'const unsigned int' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  square.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  usi.cpp
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\common.hpp(196,26): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\book.hpp(37,79): warning C4244: '引数': '_Rep' から 'const unsigned int' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\usi.cpp(229,81): warning C4244: '引数': '__int64' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=int
+          ]
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\usi.cpp(234,80): warning C4267: '引数': 'size_t' から '_Ty' に変換しました。データが失われているかもしれません。
+          with
+          [
+              _Ty=int
+          ]
+D:\Shogi\TMOQ_denryu_tsec\DeepLearningShogi-master\cppshogi\usi.cpp(248,76): warning C4267: '引数': 'size_t' から '_Ty' に変換しました。データが失われているかもしれません。
+          with
+          [
+              _Ty=int
+          ]
+  コードを生成中...
